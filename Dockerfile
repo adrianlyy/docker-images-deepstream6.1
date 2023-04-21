@@ -1,1 +1,1 @@
-FROM nvcr.io/nvidia/deepstream:6.1-samples
+FROM nvcr.io/nvidia/deepstream:6.1-devel
